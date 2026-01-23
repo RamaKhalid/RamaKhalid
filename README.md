@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, I'm Rama 👋
+
+👩🏽‍💻Software Engineer || Full Stack || Python<br/>
+👩🏽‍🎓 Recent Computer Science Graduate From Imam Abdulrahman Bin Faisal University<br/>
 
 <!--
 **RamaKhalid/RamaKhalid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
