@@ -1,11 +1,6 @@
-## Hi, I'm Rama 👋
-
-👩🏽‍💻Software Engineer || Full Stack || Python<br/>
-👩🏽‍🎓 Recent Computer Science Graduate From Imam Abdulrahman Bin Faisal University<br/>
-
 # Hi, I'm Rama 👋
 
-### Computer Science Graduate | Full-Stack Developer | AI & Software Engineering Enthusiast
+### Computer Science Graduate 👩🏽‍🎓 | Full-Stack Developer 👩🏽‍💻 | AI & Software Engineering Enthusiast🧠
 
 I'm a **Computer Science graduate** and **Full-Stack Developer** with hands-on experience building web applications, REST APIs, databases, and AI-powered solutions. I enjoy turning ideas into practical software and solving problems through logical thinking, debugging, and continuous learning.
 
