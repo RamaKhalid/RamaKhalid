@@ -115,7 +115,7 @@ To build reliable and impactful software while continuously improving my enginee
 
 I'm always interested in **software engineering, backend development, AI/ML, and interesting technical projects**.
 
-[LinkedIn](#/www.linkedin.com/in/rama-alzahrani-cs/) • [Portfolio](#https://rama-khalid.github.io/portfolio/) • [Email](#RamaKhalidCS@outlook.com)
+[LinkedIn](https://www.linkedin.com/in/rama-alzahrani-cs/) • [Portfolio](https://rama-khalid.github.io/portfolio/) • [Email](mailto:RamaKhalidCS@outlook.com)
 
 
 <!--
